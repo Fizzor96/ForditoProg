@@ -37,7 +37,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>2+2</string>
+     <string>2+2*2+2</string>
     </property>
    </widget>
    <widget class="QLabel" name="label">
@@ -99,7 +99,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>C:/Users/szoke/OneDrive/Dokumentumok/build-ForditoBeadando-Desktop_Qt_6_2_2_MinGW_64_bit-Debug/be.csv</string>
+     <string>/home/dominik/Prog/ForditoProg/ForditoBeadando/be.csv</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
@@ -194,7 +194,7 @@
      <x>0</x>
      <y>0</y>
      <width>798</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>

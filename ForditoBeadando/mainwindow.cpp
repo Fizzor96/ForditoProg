@@ -37,6 +37,8 @@ void MainWindow::on_pushButton_clicked()
 
 void MainWindow::on_pushButton_2_clicked()
 {
+    this->steps.clear();
+    this->stack.clear();
     if (this->converted == "") {
         this->ui->status_lbl->setText(QString("Please eneter a valid input!"));
         return;
